@@ -6,3 +6,7 @@ $ git 초기화
 ``` 자바스크립트
 var myVar = "안녕하세요, 세상!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
